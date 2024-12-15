@@ -1,1 +1,1 @@
-# sql-basic-
+# sql-basic-ccreate databse table insert value etc.
