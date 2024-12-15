@@ -5,7 +5,7 @@
 
 create  database customers;   -- create database customers
 
-use customers;                -- using customer datbase 
+use customers;                -- using customers datbase 
 
 create table customer(        -- create table in customers database
    customerId int primary key,
